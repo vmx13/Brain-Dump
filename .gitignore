@@ -174,4 +174,5 @@ cython_debug/
 venv/
 
 # Idea
- .idea/
+/.idea/workspace.xml
+/.idea/misc.xml
