@@ -173,3 +173,5 @@ cython_debug/
 # Venv
 venv/
 
+# Idea
+ .idea/
